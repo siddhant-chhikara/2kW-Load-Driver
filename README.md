@@ -20,7 +20,3 @@ A professional-grade 2000W LED driver circuit designed for industrial applicatio
 - ✅ Professional PCB layout (120×90mm, 2-layer, 3oz copper)
 - ✅ Output LC filter for ripple reduction
 - ✅ Bootstrap circuit for high-side gate drive
-
-## Circuit Architecture
-
-### Block Diagram
